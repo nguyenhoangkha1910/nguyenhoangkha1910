@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Xin chào, mình là Nguyễn Văn A!</h1>
+  <h1>👋 Xin chào, mình là Nguyễn Hoàng Kha!</h1>
   <p><strong>Fullstack Developer</strong> | <strong>AI Enthusiast</strong> | <strong>Open Source Contributor</strong></p>
 
   <a href="https://github.com/nguyenvana?tab=followers">
@@ -30,7 +30,7 @@
 
 ## 🚀 Giới thiệu
 
-Xin chào! Mình là **Nguyễn Văn A**, một nhà phát triển Fullstack với hơn **3 năm kinh nghiệm** xây dựng các ứng dụng web hiện đại.
+Xin chào! Mình là **Nguyễn Hoàng Kha**, một nhà phát triển Fullstack với hơn **3 năm kinh nghiệm** xây dựng các ứng dụng web hiện đại.
 
 * 🔭 **Hiện tại**: Làm việc tại Công ty XYZ, phát triển sản phẩm SaaS dùng Next.js và NestJS.
 * 🌱 **Đang học**: Redis, WebSocket & Socket.IO, Sequelize.
